@@ -1,6 +1,6 @@
 const data=[
   {
-    ques:"what is react",
+    ques:"what is reactJS",
     options:["framework","library","database","language"],
     answer:"library",
   },
